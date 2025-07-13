@@ -1,6 +1,6 @@
 # Henry Portfolio 2025
 
-Hi, I'm **Henry Nguyen** – a Software Developer based in Houston, TX.  
+Hi, I'm Henry Nguyen – a Software Developer based in Houston, TX.  
 This is my personal portfolio website where I showcase my projects, skills, and ways to connect with me.
 
 ## 💼 About
